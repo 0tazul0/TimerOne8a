@@ -1,0 +1,15 @@
+{
+  "name": "TimerOne8a",
+  "keywords": "timer",
+  "description": "Allow to use the built-in Timer1",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/0tazul0/TimerOne8a.git"
+  },
+  "frameworks": "arduino",
+  "platforms":
+  [
+    "atmelavr"
+  ]
+}
