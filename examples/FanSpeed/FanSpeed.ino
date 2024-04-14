@@ -1,4 +1,4 @@
-#include <TimerOne.h>
+#include <TimerOne8a.h>
 
 // This example creates a PWM signal with 25 kHz carrier.
 //
